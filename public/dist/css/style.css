@@ -1,0 +1,114 @@
+body{
+    font-family: 'Nunito', sans-serif ;
+}
+
+.nav-menu{
+    height: 100px;
+}
+.logo{
+    width: 200px;
+    height: auto;
+}
+.jumbotron{
+    height: auto;
+    background-image: url('../images/jumbotron.png');
+    background-size: cover ;
+}
+.left-line{
+    width: 30px;
+    height: auto;
+    border-left: 2px solid #fff;
+}
+.btn-oval{
+    border-radius: 50px;
+    font-size: 14px;
+}
+.jumbocard{
+    margin-top: 5em;
+}
+.title-card{
+    border-bottom: 3px solid #fff;
+}
+.jcard{
+    background-color: rgba(224, 37, 105, .8);
+    border: none;
+    text-align: justify;
+}
+.btn-card{
+    width: auto;
+    font-size: 14px;
+    color: #E02569;
+    transform: translateX(50%);
+}
+.jumboquote{
+    font-size: 24px;
+    letter-spacing: 5px;
+}
+.sp{
+    height: 5em;
+    margin-top: -2.3em;
+}
+.sp p{
+    padding-top: 1em;
+    font-size: 22px;
+}
+.ptext{
+    font-size: 14px;
+}
+.prod{
+    width: 400px;
+    border-radius: 10px;
+    background-color: #02BAAD;
+}
+.rm{
+    float: right;
+}
+.pg{
+    margin:20px 0
+}
+.footer{
+    height: 25em;
+}
+.ftlogo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 5px;;
+}
+.foot-info{
+    margin: 0 5em;
+    margin-top: 3em;
+}
+.info{
+    padding: 0 4em;
+}
+a{
+    text-decoration: none;
+}
+.signature{
+    height: 5em;
+    background-color: #E02569;
+    padding-top: 1.7em;
+}
+.ftlist{
+    color: #fff;
+}
+.ftbox{
+    margin: 0.7em 2em;
+    padding: 0.3em 1em;
+    background-color: #fff;
+    cursor: pointer;
+}
+.btn-submit{
+    background-color: #02BAAD;
+}
+.socialmedia{
+    margin: 2em 2em;
+}
+.socialmedia i{
+    font-size: 36px;
+}
+.smlist{
+    margin-left: 15%;
+    color: #fff;
+    font-size: 36px;
+    cursor: pointer;
+}
